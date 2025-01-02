@@ -14,15 +14,15 @@ Key Features ⭐
 
 1. KPI Cards 📈
 
-💳 Billing Amount: Displays the total billing amount (£686K) and the average billing amount per visit (£664.39).
+💳 Billing Amount: Displays the total billing amount  and the average billing amount per visit .
 
-💊 Medication Cost: Highlights the total medication cost (£113K) and the average cost per patient (£109.07).
+💊 Medication Cost: Highlights the total medication cost  and the average cost per patient.
 
-🩺 Treatment Cost: Shows the total treatment cost (£539K) with an average of £520.05.
+🩺 Treatment Cost: Shows the total treatment cost  with an average of 
 
-📜 Insurance Coverage: Demonstrates the total insurance coverage (£455K) and the average amount per visit (£450.87).
+📜 Insurance Coverage: Demonstrates the total insurance coverage  and the average amount per visit 
 
-🏨 Room Charges: Includes the total room charges (£35K) and the average per visit (£33.44).
+🏨 Room Charges: Includes the total room charges  and the average per visit 
 
 Visualizations 📑
 
@@ -30,9 +30,7 @@ Visualizations 📑
 
 📌 Breakdown: Shows billing amounts for key procedures like:
 
-X-Ray (£238,763 - 36%)
-
-CT Scan, MRI Scan, Ultrasound, and Blood Tests.
+X-Ray CT Scan, MRI Scan, Ultrasound, and Blood Tests.
 
 3. Total Billing Amount by Diagnosis and Service Type
 
